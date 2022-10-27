@@ -1,0 +1,13 @@
+D:\github\dotnet-logger\DotnetLogger\bin\Release\DotnetLogger.exe.config
+D:\github\dotnet-logger\DotnetLogger\bin\Release\DotnetLogger.exe
+D:\github\dotnet-logger\DotnetLogger\bin\Release\DotnetLogger.pdb
+D:\github\dotnet-logger\DotnetLogger\bin\Release\log4net.dll
+D:\github\dotnet-logger\DotnetLogger\bin\Release\log4net.xml
+D:\github\dotnet-logger\DotnetLogger\obj\Release\DotnetLogger.csproj.AssemblyReference.cache
+D:\github\dotnet-logger\DotnetLogger\obj\Release\DotnetLogger.csproj.SuggestedBindingRedirects.cache
+D:\github\dotnet-logger\DotnetLogger\obj\Release\DotnetLogger.Properties.Resources.resources
+D:\github\dotnet-logger\DotnetLogger\obj\Release\DotnetLogger.csproj.GenerateResource.cache
+D:\github\dotnet-logger\DotnetLogger\obj\Release\DotnetLogger.csproj.CoreCompileInputs.cache
+D:\github\dotnet-logger\DotnetLogger\obj\Release\DotnetLogger.csproj.CopyComplete
+D:\github\dotnet-logger\DotnetLogger\obj\Release\DotnetLogger.exe
+D:\github\dotnet-logger\DotnetLogger\obj\Release\DotnetLogger.pdb
